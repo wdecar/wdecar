@@ -1,9 +1,9 @@
 ## Bem-vindo(a) ao perfil do wdecar/wdecar 😁
 
  <div>
-   <a href="https://github.com/wdecar">
+   <a href="https://github.com/wdecar/wdecar">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wdecar &show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wdecar &layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="180em"y src="https://github-readme-stats.vercel.app/api/top-langs/?username=wdecar &layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
 <div style="display: inline_block"><br>
