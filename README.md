@@ -1,8 +1,4 @@
 ## Bem-vindo(a) ao perfil do wdecar 😁
-<!-- Background image -->
-<img src="URL_DA_SUA_IMAGEM" alt="Background" style="width: 100%; height: auto; opacity: 0.5; position: absolute; z-index: -1; top: 0; left: 0;"/>
-
-<!-- Conteúdo do README -->
 <div>
   <a href="https://github.com/wdecar">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wdecar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
